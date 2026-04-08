@@ -1,6 +1,7 @@
 # Cone Initialization
 
 **Geometric initialization for deep networks: start narrow, let it unfold.**
+**Alternative to Kaiming and Orthogonal initialization**
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
